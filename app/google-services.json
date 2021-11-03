@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "14052486598",
-    "firebase_url": "https://smartalert-7644c.firebaseio.com",
-    "project_id": "smartalert-7644c",
-    "storage_bucket": "smartalert-7644c.appspot.com"
+    "project_number": "YOUR_KEY_HERE",
+    "firebase_url": "YOUR_KEY_HERE",
+    "project_id": "YOUR_KEY_HERE",
+    "storage_bucket": "YOUR_KEY_HERE"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:14052486598:android:8782fb544b4415c56d96c7",
+        "mobilesdk_app_id": "YOUR_KEY_HERE",
         "android_client_info": {
           "package_name": "com.stamatiou.smartalert"
         }
       },
       "oauth_client": [
         {
-          "client_id": "14052486598-99bti26oeu8u9hjqbq1utauneav7kldi.apps.googleusercontent.com",
+          "client_id": "YOUR_KEY_HERE",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDZ0MMZIqvitxTmO8qF3UXJODYxAMINgGw"
+          "current_key": "YOUR_KEY_HERE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "14052486598-99bti26oeu8u9hjqbq1utauneav7kldi.apps.googleusercontent.com",
+              "client_id": "YOUR_KEY_HERE",
               "client_type": 3
             }
           ]
